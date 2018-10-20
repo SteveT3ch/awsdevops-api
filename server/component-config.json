@@ -2,7 +2,7 @@
   "loopback-component-explorer": {
     "mountPath": "/explorer",
     "apiInfo": {
-      "title": "SteveDevops API",
+      "title": "SteveDevops API Updated with CircleCI 2",
       "description": "Version 1"
     }
   }
