@@ -1,6 +1,6 @@
 # AWSDevops course api
 
-creating a node api using loopback
+creating a node api using loopback all from the awsdevops.io course from Jcole
 
 # Tools used
 
